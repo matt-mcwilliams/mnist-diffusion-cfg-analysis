@@ -64,3 +64,7 @@ This project is an empirical analysis of classifier-free guidance behavior in di
 
 ## Writeup
 See [writeup.pdf](writeup.pdf) for full experimental details and analysis.
+
+---
+
+See more of my work at [mattm.site](https://www.mattm.site).
